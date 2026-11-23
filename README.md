@@ -45,3 +45,8 @@ Results
 | `results/temporal_registration_year_by_cluster.csv` | Registration year summary for each genetic cluster |
 
 All files are comma-separated text in UTF-8 encoding.
+
+License
+-------
+
+The data and results in this repository are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0). The full text is given in the `LICENSE` file.
