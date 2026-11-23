@@ -1,0 +1,6 @@
+statistic,value
+global_FST,0.1492
+LD_based_effective_population_size,159.4
+mean_r2_random_marker_pairs,0.0053
+LD_background_r2,0.0093
+distance_Mb_at_which_r2_falls_below_0.1,0.75

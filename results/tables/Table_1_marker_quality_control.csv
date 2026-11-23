@@ -1,0 +1,6 @@
+Parameter,Marker Type,Count
+Total unique SNP loci,SNP,228761
+After QC (final),SNP,22346
+SilicoDArT (raw / after QC),PAV,221448 / 18652
+Total samples,Both,324
+After QC,Both,317
